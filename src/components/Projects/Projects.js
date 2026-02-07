@@ -2,12 +2,8 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import emotion from "../../Assets/Projects/emotion.png";
-import movie from "../../Assets/Projects/movie-app.png";
 import budgetmanagement from "../../Assets/Untitled design.png";
 import islamicapp from "../../Assets/Dark Blue Graphic Design Portofolio Presentations.png";
-import pantho from "../../Assets/Projects/Pantho.png";
-import ecommerce from "../../Assets/Projects/ecommerce.png";
 
 function Projects() {
   return (
