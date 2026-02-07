@@ -1,0 +1,52 @@
+================================================================================
+PORTFOLIO PROFILE — Education, Experience, Services
+Use for LinkedIn, CV, or portfolio. Professional, concise, well-formatted.
+================================================================================
+
+EDUCATION
+---------
+• Cairo University — Faculty of Computers and Artificial Intelligence, Information Systems Department
+
+
+EXPERIENCE
+----------
+
+Software Product Owner — Master Code
+Full Time | Dec 2025 – Present
+• Define product requirements and write user stories
+• Align business needs with development teams and stakeholders
+• Drive product roadmap and prioritization
+
+INTERNSHIPS
+
+Software Tester — Digital Egypt Pioneers Initiative
+Nov 2025 – Present
+• Manual testing, test case design, and test scenario execution
+• Bug reporting and collaboration to ensure software quality
+
+ServiceNow Developer — Algoriza
+Oct 2025 – Jan 2026
+• Designed and implemented IT Equipment Automation Request project to automate workflows
+• Hands-on experience with ServiceNow platform development
+• Earned 4 ServiceNow certifications: Service Portal, UI Builder, Flow Designer, Welcome to ServiceNow
+
+Flutter Developer — Advanced Computer Technology
+May 2025 – Jul 2025
+• Developed a ToDo app using BLoC and MVVM with clean architecture
+• Completed 3 Udemy certifications in Flutter and Dart
+• Hands-on experience in state management, UI design, and app architecture best practices
+
+POS Installer — Advanced Computer Technology
+• Installed and configured POS systems; worked with EMC hardware and software components
+
+
+SERVICES
+--------
+• Software testing and quality assurance (manual testing, test case creation)
+• Flutter app development (UI, BLoC, MVVM, state management)
+• ServiceNow workflow automation and development
+• POS system installation and configuration
+• Creating presentations and PowerPoint slides
+• IT support and basic software tasks
+
+================================================================================

@@ -672,6 +672,14 @@ button:focus {
   position: relative;
 }
 
+.resume-service-card {
+  transition: all 0.3s ease;
+}
+.resume-service-card:hover {
+  border-color: rgba(178, 121, 216, 0.6) !important;
+  box-shadow: 0 4px 12px rgba(89, 4, 168, 0.2);
+}
+
 .resume .resume-item .resume-title {
   line-height: 18px;
   font-size: 0.9em;
