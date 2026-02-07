@@ -97,7 +97,7 @@ export const services = [
 /** Contact — update email and links as needed. */
 export const contact = {
   tagline: "Get in touch — I'd love to hear from you.",
-  email: "marwan.tarek@example.com", // Replace with your real email
+  email: "marwantarek13579@gmail.com", // Replace with your real email
   links: [
     {
       name: "LinkedIn",
