@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.31609028.css",
-    "main.js": "/static/js/main.39e861e8.js",
+    "main.js": "/static/js/main.07abfe5e.js",
     "static/js/787.47af9b6a.chunk.js": "/static/js/787.47af9b6a.chunk.js",
     "static/media/Dark Blue Graphic Design Portofolio Presentations.png": "/static/media/Dark Blue Graphic Design Portofolio Presentations.0baf38180ed972726b36.png",
     "static/media/Untitled design.png": "/static/media/Untitled design.9e2bdc39b582e81f8c7c.png",
@@ -13,11 +13,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.31609028.css.map": "/static/css/main.31609028.css.map",
-    "main.39e861e8.js.map": "/static/js/main.39e861e8.js.map",
+    "main.07abfe5e.js.map": "/static/js/main.07abfe5e.js.map",
     "787.47af9b6a.chunk.js.map": "/static/js/787.47af9b6a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31609028.css",
-    "static/js/main.39e861e8.js"
+    "static/js/main.07abfe5e.js"
   ]
 }
